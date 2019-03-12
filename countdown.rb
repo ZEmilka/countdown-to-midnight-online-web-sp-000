@@ -1,6 +1,6 @@
 integer = 0
 while integer < 10
-  integer -= 1
+  integer += 1
   puts "The current #{integer} is less than 5."
   #integer += 1
 end
