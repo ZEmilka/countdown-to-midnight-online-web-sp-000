@@ -1,4 +1,4 @@
-integer =
+integer = 4
 while integer < 5
   puts "The current #{integer} is less than 5."
   integer -= 1
