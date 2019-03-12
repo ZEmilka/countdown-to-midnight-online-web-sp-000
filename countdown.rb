@@ -3,4 +3,3 @@ def countdown(integer)
  while integer<10
    puts"#{integer}"
 end
-countdown(integer)
