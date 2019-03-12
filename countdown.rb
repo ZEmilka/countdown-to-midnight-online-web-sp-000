@@ -6,5 +6,5 @@ end
 integer = 9
 while integer < 10
   puts"#{integer}"
-  integer -= 1
+  integer += 1
 end
